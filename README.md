@@ -61,6 +61,9 @@ http://changingminds.org/explanations/research/analysis/choose_correlation.htm
 [Spanish]
 http://personal.us.es/carlos6262/contenido/pdf/6.pdf
 
+
 License
-This development subscribes to GPL license model. This software is provided as it is, without warranty of any kind express or implied.
+-------
+
+This development subscribes to GPL license model. If it’s useful to you, please be so kind to leave a link to Alejandro Mitrou [www.WiseTonic.com] in your acknowledgment page and/or within your documentation. This software is provided as it is, without warranty of any kind express or implied.
 
