@@ -1,7 +1,7 @@
 Spearman-Correlation
 ====================
 
-PHP implementation of the Spearman Correlation with results matrix
+PHP implementation of the Spearman Correlation with results matrix.
 
 Spearman Rank Correlation
 -------------------------
